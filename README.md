@@ -27,8 +27,7 @@ of another image using Neural Style Transfer.
 
 ### 🔗 Internship
 Prodigy Infotech - Generative AI Internship
-```
-Click **Commit changes** ✅
+
 
 
 
